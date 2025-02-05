@@ -12,6 +12,11 @@
 -->
 
 
+<!-- Hardware Badges Here -->
+![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=orange) 
+![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+![Intel](https://img.shields.io/badge/intel-%230068B5%20.svg?style=for-the-badge&logo=intel&logoColor=white)
+
 
 <!--
 **JeremyCCox/JeremyCCox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
