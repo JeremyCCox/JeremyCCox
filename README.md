@@ -7,6 +7,11 @@
 | AMD Ryzen 7 5700U | Intel Core i7-8700 | 🔥 AMD Threadripper 3970 🔥 | 
 | 🦾 Radeon Graphics 🦾 | NVIDIA RTX 3090<sup>Ti</sup> | NVIDIA RTX 2070 Super & NVIDIA GTX 1050<sup>Ti</sup> | 
 | 16GB @ 3200 | 32GB @ 3200 | 128GB ECC @ 3200 |
+<!--
+| WD Blue SN570 1TB | Samsung 980 PRO 1TB | Samsung EVO 990 |
+-->
+
+
 
 <!--
 **JeremyCCox/JeremyCCox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
