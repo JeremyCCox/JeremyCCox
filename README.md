@@ -1,4 +1,4 @@
-# Hello!  I'm Jeremy Cox. 👋
+<h1 align="center">Hello!  I'm Jeremy Cox. 👋</h1>
 
 ## 💻🎮🖥️ My Hardware 🖥️🎮💻 
 | 💻 My Laptop 💻 | 🎮 My Desktop 🎮 | 🖥️ My Workstation 🖥️  |
