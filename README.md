@@ -59,6 +59,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-_Special thanks to:_
-- _[Ileriayo Adebiyi](https://github.com/Ileriayo) - Thank you for your [markdown-badges repository](https://github.com/Ileriayo/markdown-badges) And for inspiting me to make my Readme look much nicer!_
+_Thanks to:_
+- _[Ileriayo Adebiyi](https://github.com/Ileriayo) - Thank you for your [markdown-badges repository](https://github.com/Ileriayo/markdown-badges)_
 
