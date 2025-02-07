@@ -35,7 +35,7 @@
 </div>
  <br/>
 <div align='center'>
-  <img alt='Firefox Browser shields.io badge' src='https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white'/> <img alt='Duck Duck Go shields.io badge' src='https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white' />
+  <img alt='Firefox Browser shields.io badge' src='https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white'/> <img alt='Duck Duck Go shields.io badge' src='https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white' /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <h3> 📔 My Readme TODO list 📝 </h3>
@@ -58,4 +58,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+_Special thanks to:_
+- _[Ileriayo Adebiyi](https://github.com/Ileriayo) - Thank you for your [markdown-badges repository](https://github.com/Ileriayo/markdown-badges) And for inspiting me to make my Readme look much nicer!_
 
