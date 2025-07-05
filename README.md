@@ -27,7 +27,7 @@
 -->
 </table>
 
-<!-- Hardware Badges Here -->
+<!-- Badges Here -->
 <div align='center'>
   <img alt='AMD shields.io badge' src='https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=orange' />  &nbsp;&nbsp;&nbsp;&nbsp;
   <img alt='Intel shields.io badge' src='https://img.shields.io/badge/intel-%230068B5%20.svg?style=for-the-badge&logo=intel&logoColor=white' /> &nbsp;&nbsp;&nbsp;&nbsp;
