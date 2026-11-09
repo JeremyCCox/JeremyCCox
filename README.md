@@ -40,7 +40,7 @@
 
 <h3> 📔 My Readme TODO list 📝 </h3>
 
-- [ ] Use cooler Operating system than Windows 10 & 11 (I don't feel cool when people find out I host my server through Hyper-V)
+- [ X ] Use cooler Operating system than Windows 10 & 11 (I don't feel cool when people find out I host my server through Hyper-V)
 - [ ] Implement the [better-view-counter](https://github.com/hi019/better-view-counter?tab=readme-ov-file) 📈 
 - [ ] Implement a custom badge for Jcox.ca with [shields.io endpoint badges](https://shields.io/badges/endpoint-badge) (I need to setup nginx to respond)
 <div> <sup>Current badge:</sup> <img src='https://img.shields.io/endpoint?url=https%3A%2F%2Fjcox.ca%2Fversion%2Fversion.json&link=https%3A%2F%2Fjcox.ca'/></div> 
